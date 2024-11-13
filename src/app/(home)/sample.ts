@@ -1,0 +1,45 @@
+const samle = {
+  type_of: "article",
+  id: 2102736,
+  title: "What's your favorite book on web development? 📖",
+  description: "A post by Thomas Bnt",
+  readable_publish_date: "Nov 13",
+  slug: "whats-your-favorite-book-on-web-development-33nl",
+  path: "/thomasbnt/whats-your-favorite-book-on-web-development-33nl",
+  url: "https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl",
+  comments_count: 2,
+  public_reactions_count: 12,
+  collection_id: null,
+  published_timestamp: "2024-11-13T16:11:58Z",
+  positive_reactions_count: 12,
+  cover_image: null,
+  social_image:
+    "https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmc6hbx8bhv4x3ym2in1f.png",
+  canonical_url:
+    "https://dev.to/thomasbnt/whats-your-favorite-book-on-web-development-33nl",
+  created_at: "2024-11-13T16:11:58Z",
+  edited_at: "2024-11-13T16:12:52Z",
+  crossposted_at: null,
+  published_at: "2024-11-13T16:11:58Z",
+  last_comment_at: "2024-11-13T16:42:41Z",
+  reading_time_minutes: 0,
+  tag_list: ["books", "discuss", "webdev"],
+  tags: "books, discuss, webdev",
+  user: {
+    name: "Thomas Bnt",
+    username: "thomasbnt",
+    twitter_username: "Thomasbnt_",
+    github_username: "thomasbnt",
+    user_id: 18254,
+    website_url: "https://thomasbnt.dev",
+    profile_image:
+      "https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png",
+    profile_image_90:
+      "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F18254%2Fc3e65d32-bfe2-48ed-93b3-f2caf9c60dd7.png",
+  },
+  flare_tag: {
+    name: "discuss",
+    bg_color_hex: "#71EA8B",
+    text_color_hex: "#FFFFFF",
+  },
+};
